@@ -7,6 +7,7 @@ Since this project is unfinished the readme will just have to do with creating i
 ## Project Idea
 
 A keylogger that can write step-by-step guides on everything the user does while it is recording
+Basically like [Problem Steps Recorder](https://support.microsoft.com/en-us/windows/record-steps-to-reproduce-a-problem-46582a9b-620f-2e36-00c9-04e25d784e47) but platform independent and outputting to markdown
 
 ---
 
