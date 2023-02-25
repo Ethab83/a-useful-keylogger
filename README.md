@@ -26,3 +26,17 @@ Basically like [Problem Steps Recorder](https://support.microsoft.com/en-us/wind
 
 - Easily create reproducible steps for IT
 - Automate build/installation docs
+
+---
+
+## For Devs
+
+### pip installs
+
+- screen capturing
+    - numpy
+    - cv2
+    - pyautogui
+    - PIL [TODO: verify its all caps]
+- keyboard/mouse monitoring
+    - pynput
